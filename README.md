@@ -1,4 +1,4 @@
-Chaninable curl wrapper
+Chainable curl wrapper
 
 Example:
 <pre>
